@@ -28,18 +28,22 @@ My love for technology started off when I got my first video game console being 
 ### Front-End
 
 * Front end project folder will include the front end project I've worked in a group during the Multiverse Bootcamp.
+  * You can access the embeded repo to their corresponding folder or click this link to find out more: [Flash Focus](https://github.com/crystalchavez99/flash-focus)
 
 ### Back-End
 
 * Back end project folder will include the back end project I've worked in a group during the Multiverse Bootcamp.
+  * You can access the embeded repo to their corresponding folder or click this link to find out more: [Novel Sys](https://github.com/crystalchavez99/NovelSys)
 
 ### Deployment
 
 * Deployment project folder will include the deployment project I've worked in a group during the Multiverse Bootcamp.
+  * You can access the embeded repo to their corresponding folder or click this link to find out more: [Flash Focus](https://github.com/crystalchavez99/flash-focus)
 
 ### Hackathon
 
 * Hackathon project folder will include the hackathon project I've worked in a group during the Multiverse Bootcamp.
+  * You can access the embeded repo to their corresponding folder or click this link to find out more: [Inventory App](https://github.com/multiverse-red-team/inventory-app)
 
 ## Acknowledgments
 
