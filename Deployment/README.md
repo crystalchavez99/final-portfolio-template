@@ -23,7 +23,16 @@ Can explain the principles and uses of relational and non-relational databases
 * Using relational databases to store data in tables to allow queries to be executed for the usage of flash cards
 * Used SQL Server Supabase made of a full Postgres DB
 * Alongside that used a noSQL to host front page such as Firebase so doesn't require a fixed schema
+
+### JF 3.3
+Can link code to data sets
+* Linking my project to datasets with Supabase which a backend database
+* Connects with 3.7 as well
+
 ### JF 3.7
 Can implement authentication and authorization to an API.
-* To implement auth I used 0Auth and Supabase since they support
-* Configured auth methods with the usage of 0Auth
+* To implement auth I used 0Auth and Supabase since they support it.
+  * Installed the supabase client sdk
+  * Init the client
+  * Ensure request data works (All Http Methods)
+  * Supabase provides built in methods
