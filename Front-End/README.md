@@ -2,32 +2,28 @@
 Give a high-level overview of the project purpose
 - Questions to consider:
     - What are the users?
+      - Students who want to refine their studying skills and free time to improve subject.
     - What job does it form for them?
+      - Helps student with memory retention and effecient learning.
     - What inspired you to make it?
+      - I was inspired from Wilson where they aim to help students progress in their reading skill and we use tiles to represent a letter.
     - What features are the most important?
-- STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
-    - (Action) Explain the code you wrote to achieve your desired result
-    - (Result) Showcase your final application with its functionality
-- Include relevant screenshots
+      - Ability to make a flashcard with text to speech so it can be read to you.
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+**Client:** Angular, Typescript, PrimeNg
+
+**Server:** Node, Webpack Dev Server, Supabase
+
+* Deployed on firebase!
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 2.1
+Can create and analyze artefacts, such as use cases and/or user stories
+* I wrote user stories from the view of a student and was structured to follow the default prompt
+* Made sure to make it clear and concise
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 6.4
+Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges
+* I set clear goals and prioritization, ensuring tasks are broken down and creating timelines.
+* Maintaining focus and motivation especially when facing setbacks I focused on the goal in hand and celebrated the small taskss 

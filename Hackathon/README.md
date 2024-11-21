@@ -1,16 +1,12 @@
 ## Project #1
 Give a high-level overview of the project purpose
 - Questions to consider:
-    - What are the users? The users are people who want to buy stuff from the store that contains the items they want.
+    - What are the users?
+      - The users are consumers buying the inventory from the e-commerce site.
     - What job does it form for them?
+      - The job of this to provide services if they are available and the other options to compare whether it is a good bargain or not.
     - What inspired you to make it?
-    - What features are the most important?
-- STAR Interview Questions:
-    - (Situation) Describe the application and why you created this program
-    - (Task) Describe the overall structure of your application and the design process prior to building the program
-    - (Action) Explain the code you wrote to achieve your desired result
-    - (Result) Showcase your final application with its functionality
-- Include relevant screenshots
+      - We were given the general idea of it from the bootcamp and wanted to enhance more of it.
 
 ## Technologies
 - React (Front-End)
