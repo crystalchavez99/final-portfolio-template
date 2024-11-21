@@ -23,6 +23,12 @@ Can create and analyze artefacts, such as use cases and/or user stories
 * I wrote user stories from the view of a student and was structured to follow the default prompt
 * Made sure to make it clear and concise
 
+### JF 4.1
+Can explain organizational policies and procedures relating to the tasks being undertaken, and when to follow them. For example, the storage and treatment of sensitive data.
+* Especially with sensitive data in 0Auth always use their function or create encryption policies to ensure no data is given away
+* Ensured my API Endpoints that contain data handling are secured with HTTPS
+
+
 ### JF 6.4
 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges
 * I set clear goals and prioritization, ensuring tasks are broken down and creating timelines.
