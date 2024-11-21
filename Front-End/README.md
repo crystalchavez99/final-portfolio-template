@@ -1,4 +1,4 @@
-## Project #1
+## Front End Flash Focus
 Give a high-level overview of the project purpose
 - Questions to consider:
     - What are the users?
@@ -26,4 +26,4 @@ Can create and analyze artefacts, such as use cases and/or user stories
 ### JF 6.4
 Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges
 * I set clear goals and prioritization, ensuring tasks are broken down and creating timelines.
-* Maintaining focus and motivation especially when facing setbacks I focused on the goal in hand and celebrated the small taskss 
+* Maintaining focus and motivation especially when facing setbacks I focused on the goal in hand and celebrated the small taskss

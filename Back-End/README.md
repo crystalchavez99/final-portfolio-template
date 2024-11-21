@@ -1,4 +1,4 @@
-## Project #2
+## Back End NovelSys
 Give a high-level overview of the project purpose
 - Questions to consider:
     - What are the users?
@@ -18,16 +18,16 @@ Give a high-level overview of the project purpose
 * Mediatr
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal.
-- Emphasize the results of this action for your team or your learning.
-- Connect the competentcy to this project
+### JF 3.6
+Can implement a RESTful API
+* The project itself is a backend consisting a RESTful API which is created with ASP.NET Core Web Api
+* The controllers are the API Endpoints that correspond to a specific function HTTP Methods and we use DI & Services to implement service classes to interact with the database
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal.
-- Emphasize the results of this action for your team or your learning.
-- Connect the competentcy to this project
+### JF 3.7
+Can implement authentication and authorization to an API.
+* To ensure there is an auth where we integrate if they are a librarian or not we use JWT and Identity and Auth built within ASP.NET Core
+* The routes are protected with authorization to restrict access to the methods
+
+### JF 3.8
+Can encrypt sensitive data via hashing
+* Used a hashing algorithm provided from packages such as the PasswordHasher and created an example out of it

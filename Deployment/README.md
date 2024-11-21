@@ -1,4 +1,4 @@
-## Project #1
+## Deployment Flash Focus
 Give a high-level overview of the project purpose
 - Questions to consider:
     - What are the users?
