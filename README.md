@@ -22,7 +22,7 @@ I have have graduated from College of the Canyons with an Associate of Science d
 My love for technology started off when I got my first video game console being the GameBoy Advance with the game Pokemon FireRed, and instantly was hooked into playing it and further down the line with PC gaming. I've always been interested in computers and questioned myself what exactly did I want to do with the idea of technology that revolved around the PC & internet. I took a course in video game development and IT during my years in middle and high school, but realized those were not for me until my last two years of high school I fell in love with Software Engineering mainly in Web Development when I took AP Computer Science. This lead me to pursue that as a career and through the hard work and blessings I am where I am at currently today.
 
 ### Your areas of interest
-As a junior web developer apprentice, I always had a preference of back-end and full-stack given I lacked creativity with front-end. WLT really taught me what it is really like to be a front-end and now have a growing passion for both ends. 
+As a junior web developer apprentice, I always had a preference of back-end and full-stack given I lacked creativity with front-end. WLT really taught me what it is really like to be a front-end and now have a growing passion for both ends.
 ## Multiverse Projects
 
 ### Front-End
@@ -33,7 +33,7 @@ As a junior web developer apprentice, I always had a preference of back-end and 
 ### Back-End
 
 * Back end project folder will include the back end project I've worked in a group during the Multiverse Bootcamp.
-  * You can access the embeded repo to their corresponding folder or click this link to find out more: [Novel Sys](https://github.com/crystalchavez99/NovelSys)
+  * You can access the embeded repo to their corresponding folder or click this link to find out more: [Open Learn](https://github.com/crystalchavez99/Open-Learn)
 
 ### Deployment
 

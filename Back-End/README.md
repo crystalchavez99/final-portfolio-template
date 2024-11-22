@@ -2,13 +2,13 @@
 Give a high-level overview of the project purpose
 - Questions to consider:
     - What are the users?
-      - The users for the application are schools and cities with a library system. So librarians, patrons and admins
+      - The users are institutions to manage digital learning, educators to create and present online learning materials
     - What job does it form for them?
-      - Hlpes provide a way to checkout books and see if any are available
+      - It is a web-based learning management system or LMS helps make digital education easier
     - What inspired you to make it?
       - I wanted to still aim something that would allow me to learn ASP.NET Core Web Api and C#
     - What features are the most important?
-      - User Management and Book Catalog Management
+      - User Management and Course Management
 
 ## Technologies
 * ASP.NET Core
@@ -25,7 +25,7 @@ Can implement a RESTful API
 
 ### JF 3.7
 Can implement authentication and authorization to an API.
-* To ensure there is an auth where we integrate if they are a librarian or not we use JWT and Identity and Auth built within ASP.NET Core
+* To ensure there is an auth where we integrate if they are a student or teacher we use JWT and Identity and Auth built within ASP.NET Core
 * The routes are protected with authorization to restrict access to the methods
 
 ### JF 3.8
